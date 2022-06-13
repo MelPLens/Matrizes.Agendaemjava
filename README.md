@@ -61,3 +61,5 @@ Repositório contém um código com laço de repetição que simula uma agenda d
     Escreva DADO [I,J]
     Fim para
  Fim 
+ 
+![image](https://user-images.githubusercontent.com/99374140/173404787-b6afb9a0-d990-4a60-b6ea-dff57c651ae3.png)
